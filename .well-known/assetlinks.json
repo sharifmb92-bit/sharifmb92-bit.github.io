@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.medbasha.supermart",
+      "sha256_cert_fingerprints": [
+        "35:2C:0D:ED:50:D0:8A:F3:48:8E:C3:ED:EC:28:3C:E5:59:13:46:EC:1B:9C:FB:2E:04:23:A7:14:26:21:55:A6"
+      ]
+    }
+  }
+]
